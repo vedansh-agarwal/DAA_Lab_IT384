@@ -1,5 +1,5 @@
 import java.util.*;
-public class DAA_Lab_02 {
+public class DAA_Lab02 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no. of elements: ");
